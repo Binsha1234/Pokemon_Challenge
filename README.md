@@ -6,15 +6,17 @@ This is a fullstack application that allows users to view Pokémon characters, s
  
 1. **Clone the Repository**:
    ```bash
-   git clone 
+   git clone https://github.com/Binsha1234/Pokemon_Challenge.git
    cd my-fullstack-app
  
-2. **Install Dependencies:**:
-npm install --prefix frontend
-npm install --prefix backend
-3. **Start the Backend Server:**:
+2. **Install Dependencies**:
+   ```bash
+   npm install --prefix frontend
+   npm install --prefix backend
+   ```
+4. **Start the Backend Server:**:
 npm run dev --prefix backend
-4. **Start the Frontend Server:**:
+5. **Start the Frontend Server:**:
 npm start --prefix frontend
  
 Open the Application: Visit http://localhost:3000 in your browser.
